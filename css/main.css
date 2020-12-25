@@ -1,0 +1,28 @@
+.navbar {
+  margin-bottom: 20px;
+}
+
+.card {
+  margin-bottom: 20px;
+}
+
+article {
+  margin-bottom: 20px;
+}
+
+fieldset {
+  padding: 15px !important;
+  border: 1px solid #ced4da !important;
+  border-radius: .25rem;
+}
+
+.form-signup {
+  width: 100%;
+  max-width: 330px;
+  padding: 15px;
+  margin: auto;
+}
+
+.form-comments {
+  margin-top: 20px;
+}

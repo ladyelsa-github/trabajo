@@ -1,0 +1,15 @@
+{
+    "name": "proyecto/blog",
+    "description": "Proyecto Final del curso de Programación con PHP",
+    "type": "project",
+    "license": "MIT-License",
+    "authors": [
+        {
+            "name": "Lino Espinoza",
+            "email": "admin@linoespinoza.com"
+        }
+    ],
+    "require": {
+        "nesbot/carbon": "^2.42"
+    }
+}
